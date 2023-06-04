@@ -1,0 +1,20 @@
+1 thread :
+avgTime: 3631089.359424   totTime: 68990697.829060
+
+2 thread :
+
+4 thread :
+
+8 outer thread:
+
+16 outer thread:
+
+16 outer 16 inner
+
+8 outer 16 inner
+
+16 outer 8 inner
+
+8 outer 8 inner
+
+
